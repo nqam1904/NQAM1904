@@ -1,4 +1,4 @@
-### Hi there 👋 I'am Quốc Minh (NickName: Tôi là con bò :cow2:)
+### Hi there 👋 I'm Quốc Minh (NickName: Tôi là con bò :cow2:)
 
 I’m currently learning and working about Front-End developer
 
