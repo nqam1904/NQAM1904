@@ -8,6 +8,7 @@ I’m currently learning and working about Front-End developer
 
 ### Technology & Framework
 <img src="https://img.shields.io/badge/-JQuery-9cf?style=flat&logo=JQuery&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-React.Js-black?style=flat&logo=React&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-ReactNative-black?style=flat&logo=React&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-ASP.Net-blueviolet?style=flat&logo=C-Sharp&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY">
+<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 
 ### Database 
 <img src="https://img.shields.io/badge/-Microsoft SQL Server-black?style=flat&logo=Microsoft-SQL-Server&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY">
