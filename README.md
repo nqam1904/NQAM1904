@@ -1,11 +1,12 @@
 ### Hi there 👋 I'm Quốc Minh 
 
-I’m currently learning and working about Front-End developer
+I’m currently learning and working about developer
 
 
 ### Programing Language 
 <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML5&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
-### Front-End
+
+### Technology & Framework
 <img src="https://img.shields.io/badge/-JQuery-9cf?style=flat&logo=JQuery&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-React.Js-black?style=flat&logo=React&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-ReactNative-black?style=flat&logo=React&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY">
 <img  src="https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
 
