@@ -8,7 +8,7 @@ I’m currently learning and working about developer
 
 ### Framework & Library
 <img src="https://img.shields.io/badge/-React.Js-black?style=flat&logo=React&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-ReactNative-black?style=flat&logo=React&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY">
-<img  src="https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/> <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=Express&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
+<img  src="https://img.shields.io/badge/-NestJs-black?style=flat&logo=Nestjs&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/> <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=Express&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
  
  
 
