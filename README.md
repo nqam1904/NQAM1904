@@ -9,13 +9,8 @@ I’m currently working Front-end & Mobile developer
 ### Framework & Library
 <img src="https://img.shields.io/badge/-React.Js-black?style=flat&logo=React&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"> <img src="https://img.shields.io/badge/-ReactNative-black?style=flat&logo=React&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
 <img src="https://img.shields.io/badge/-Angular-black?style=flat&logo=Angular&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
-<img  src="https://img.shields.io/badge/-NestJs-black?style=flat&logo=Nestjs&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/> <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=Express&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
 
  
- 
-
-### Database 
-<img src="https://img.shields.io/badge/-Microsoft SQL Server-black?style=flat&logo=Microsoft-SQL-Server&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/> 
 
 ### Tool
  <img src="https://img.shields.io/badge/-Visual Code-blue?style=flat&logo=Visual-Studio-Code&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
