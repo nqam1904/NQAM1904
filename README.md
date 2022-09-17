@@ -13,10 +13,7 @@ I’m currently working Front-end & Mobile developer
  
 
 ### Tool
- <img src="https://img.shields.io/badge/-Visual Code-blue?style=flat&logo=Visual-Studio-Code&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
- <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=Git&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
- <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/> 
- <img src="https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
+ <img src="https://img.shields.io/badge/-Visual Code-blue?style=flat&logo=Visual-Studio-Code&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/> <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=Git&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/> <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/> <img src="https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&fbclid=IwAR0U4pJLPfWU7RrrYI25yxsEK0cM-g9BuTDOTZegP5x1Kaufp42urPjHtGY"/>
 <!--
 **NQAM1904/NQAM1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
