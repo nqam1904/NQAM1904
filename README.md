@@ -6,6 +6,7 @@ Currently I am working as a full-stack JavaScript software engineer
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript"> <img src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript"/>
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=flat&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white"/>
 
 ### Framework & Library
 <img src="https://img.shields.io/badge/-React.Js-blue?style=flat&logo=React&"> <img src="https://img.shields.io/badge/-ReactNative-blue?style=flat&logo=React&"/>
